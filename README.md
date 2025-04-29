@@ -31,37 +31,27 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias
 
-<img 
+<div >
+  <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+  />
+  
+</div>
+
+<br/><br/><br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=tanurispina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanurispina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
-  />
-</p>
-
+|  |  |
+|--|--|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanurispina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_title=true&hide=prs&count_private=true&show_icons=true&height=200) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tanurispina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&height=200) |
 
 <br/>
 <br/>
